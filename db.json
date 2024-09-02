@@ -1,0 +1,51 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "course": "React JS and Redux Certification",
+      "image": "https://cdn.worldvectorlogo.com/logos/react-2.svg",
+      "description": "This course masters you react js and redux concepts and helps to build world class products."
+    },
+    {
+      "id": "2",
+      "course": "Angular 17",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png",
+      "description": "This course teach you Angular 17 and helps to build world class products."
+    },
+    {
+      "id": "3",
+      "course": "Android Development",
+      "image": "https://1000logos.net/wp-content/uploads/2016/10/Android-Logo-2019.png",
+      "description": "This course masters you core android development using kotlin and build world class products like ola, uber, zomato."
+    }
+  ],
+  "enquires": [
+    {
+      "id": "e398",
+      "firstName": "Rajesh",
+      "lastName": "Kumar",
+      "email": "purna@gmail.com",
+      "phoneNo": "7635261616",
+      "message": "How much cost for Android Development course?",
+      "courseName": "Android Development"
+    },
+    {
+      "id": "ba6d",
+      "firstName": "Rupesh",
+      "lastName": "Raj",
+      "email": "vamsi@gmail.com",
+      "phoneNo": "5556582459",
+      "message": "Does es6 concepts cover in Angular?",
+      "courseName": "Angular 17"
+    },
+    {
+      "id": "aab8",
+      "firstName": "Purna",
+      "lastName": "korrapolu",
+      "email": "vamsi@gmail.com",
+      "phoneNo": "5556582459",
+      "message": "How much does it cost, react js and redux certification course?",
+      "courseName": "React JS and Redux Certification"
+    }
+  ]
+}
